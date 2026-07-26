@@ -1,5 +1,6 @@
+QR Code Attendance System
 
-📋 QR Code Attendance System
+🔗 Live Demo: qr-code-attendance-system-l04f.onrender.com
 
 A smart, location-aware attendance management system built with Django, allowing teachers to generate time-limited QR codes for each class session and students to mark their attendance by scanning them.
 
